@@ -7,6 +7,8 @@ I know no ones gonna use this but just incase:
 
 clone this repository
 
+install tesseract OCR from https://github.com/UB-Mannheim/tesseract/wiki
+
 upload the **plugin** folder to roblox as a local plugin
 
 # Usage
