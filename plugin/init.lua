@@ -29,7 +29,6 @@ local function main()
 		local scr = game:FindFirstChild(uiInit.Input.Text,true)
 		
 		scr.Source = res
-		script.Disabled = true
 	end)
 		
 end
